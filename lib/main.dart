@@ -35,7 +35,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: Text('All Hadih')),
+          title: Center(child: Text('All Hadith')),
         ),
         body: Center(
           child: Container(
